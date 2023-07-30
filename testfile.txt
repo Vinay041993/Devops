@@ -1,2 +1,0 @@
-this is testfile.txt
-This second line is added
